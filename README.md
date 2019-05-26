@@ -75,7 +75,7 @@ Tryb używany do wyznaczenia województwa o wyższej zdawalności spośród dwó
 Przykład użycia:
 
 ```bash
-python analyser.py mode=regression
+python analyser.py mode=comparison -v Dolnośląskie -v2 Opolskie
 ```
 
 ### Podział dla płci
